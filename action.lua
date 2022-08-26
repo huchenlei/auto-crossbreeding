@@ -237,5 +237,6 @@ return {
     deweed = deweed,
     transplant = transplant,
     transplantToMultifarm = transplantToMultifarm,
-    destroyAll = destroyAll
+    destroyAll = destroyAll,
+    dumpInventory = dumpInventory,
 }
